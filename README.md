@@ -2,10 +2,10 @@
 
 First check your version dependencies
 
-$node --version
-$npm --version
-$npx --version
-$yarn --version
+- $node --version
+- $npm --version
+- $npx --version
+- $yarn --version
 
 
 ## 1- Create a React project using typescript (TS is recommended to use in Ionic)

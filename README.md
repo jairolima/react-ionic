@@ -10,9 +10,9 @@ First check your version dependencies
 
 ## 1- Create a React project using typescript (TS is recommended to use in Ionic)
 
-$npx create-react-app my-ionic-app --typescript
-$cd my-ionic-app
-$code .
+- $npx create-react-app my-ionic-app --typescript
+- $cd my-ionic-app
+- $code .
 
 ## 2- Install Ionic dependencies
 
